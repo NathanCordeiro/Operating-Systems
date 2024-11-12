@@ -5,8 +5,7 @@
 #include <cmath>
 #include <limits>
 
-    void
-    sstf(std::vector<int> &requests, int start)
+void sstf(std::vector<int> &requests, int start)
 {
     int total_seek = 0;
     int current = start;

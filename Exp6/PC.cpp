@@ -1,3 +1,5 @@
+//22co09 Nathan Cordeiro
+//Producer Consumer n elements 
 #include <iostream>
 #define MAX 10
 using namespace std;
